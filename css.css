@@ -1,0 +1,10 @@
+ul ,li{
+    list-style: none;
+    padding: 5px;
+}
+
+[required] {
+    border: 2px dotted
+    red;
+}
+
